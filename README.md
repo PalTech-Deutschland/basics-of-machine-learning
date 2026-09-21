@@ -10,9 +10,6 @@ Material for the online course "Basics of Machine Learning / AI"
 [Rent price prediction 1D](https://colab.research.google.com/drive/1HfIddRPFBMIsplmWDSATi9USSWAlygww?usp=sharing)
 
 
-## Lesson 2:
-[Rent price prediction 2D](https://colab.research.google.com/drive/1fPOKZUce8w-ZYQ16IeZzCK9yiAB8j24G?usp=sharing)
-
 
 
 ## References

@@ -13,5 +13,5 @@ Material for the online course "Basics of Machine Learning / AI"
 
 
 ## References
-Burkov, A. (2019). The Hundred-Page Machine Learning Book. Andriy Burkov.
-Burkov, A. (2025). The Hundred-Page Language Models Book: Hands-on with PyTorch. Andriy Burkov.
+1. Burkov, A. (2019). The Hundred-Page Machine Learning Book. Andriy Burkov.
+2. Burkov, A. (2025). The Hundred-Page Language Models Book: Hands-on with PyTorch. Andriy Burkov.

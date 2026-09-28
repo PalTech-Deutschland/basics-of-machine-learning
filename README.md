@@ -9,7 +9,15 @@ Material for the online course "Basics of Machine Learning / AI"
 ### Notebook
 [Rent price prediction 1D](https://colab.research.google.com/drive/1HfIddRPFBMIsplmWDSATi9USSWAlygww?usp=sharing)
 
+## Lesson 2
+### Slides
+[Lesson 2 - Basics_of_ML.pdf](https://github.com/user-attachments/files/32773286/Lesson.2.-.Basics_of_ML.pdf)
 
+
+### Notebooks
+[Rent price prediction 2D](https://colab.research.google.com/drive/1fPOKZUce8w-ZYQ16IeZzCK9yiAB8j24G?usp=sharing)
+
+[Gradient Decent](https://colab.research.google.com/drive/1nTHz9y8lGaqYimHPBa8pUDv1b9plMvh0?usp=sharing)
 
 
 ## References

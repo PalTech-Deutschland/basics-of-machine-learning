@@ -19,6 +19,17 @@ Material for the online course "Basics of Machine Learning / AI"
 
 [Gradient Decent](https://colab.research.google.com/drive/1nTHz9y8lGaqYimHPBa8pUDv1b9plMvh0?usp=sharing)
 
+## Lesson 3
+### Slides
+[Lesson 3 - Basics_of_ML_EN.pdf](https://github.com/user-attachments/files/33069565/Lesson.3.-.Basics_of_ML_EN.pdf)
+
+
+### Notebooks
+[Neural Network](https://colab.research.google.com/drive/1EMcEzJiCEuu_97wCAfxqluYTowxxsZt5?usp=sharing)
+[Neural Network with pytorch](https://colab.research.google.com/drive/1dfgaqnqBvfeYwERtICGhdQfSqKNl0jWD?usp=sharing)
+
+
+
 
 ## References
 1. Burkov, A. (2019). The Hundred-Page Machine Learning Book. Andriy Burkov.

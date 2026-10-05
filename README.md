@@ -26,6 +26,7 @@ Material for the online course "Basics of Machine Learning / AI"
 
 ### Notebooks
 [Neural Network](https://colab.research.google.com/drive/1EMcEzJiCEuu_97wCAfxqluYTowxxsZt5?usp=sharing)
+
 [Neural Network with pytorch](https://colab.research.google.com/drive/1dfgaqnqBvfeYwERtICGhdQfSqKNl0jWD?usp=sharing)
 
 

@@ -23,6 +23,11 @@ Material for the online course "Basics of Machine Learning / AI"
 ### Slides
 [Lesson 3 - Basics_of_ML_EN.pdf](https://github.com/user-attachments/files/33069565/Lesson.3.-.Basics_of_ML_EN.pdf)
 
+## Lesson 4
+### Slides
+[Lesson 4 - Further Concepts.pdf](https://github.com/user-attachments/files/33717514/Lesson.4.-.Further.Concepts.pdf)
+
+
 
 ### Notebooks
 [Neural Network](https://colab.research.google.com/drive/1EMcEzJiCEuu_97wCAfxqluYTowxxsZt5?usp=sharing)

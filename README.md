@@ -32,6 +32,13 @@ Material for the online course "Basics of Machine Learning / AI"
 ### Slides
 [Lesson 4 - Further Concepts.pdf](https://github.com/user-attachments/files/33717514/Lesson.4.-.Further.Concepts.pdf)
 
+## Lesson 5 
+### Slides
+[Lesson 5 - Further Architectures.pdf](https://github.com/user-attachments/files/33982647/Lesson.5.-.Further.Architectures.pdf)
+
+[Lesson 5 - Convolution.pdf](https://github.com/user-attachments/files/33982650/Lesson.5.-.Convolution.pdf)
+
+
 
 
 
